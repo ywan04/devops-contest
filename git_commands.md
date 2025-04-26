@@ -60,3 +60,18 @@ man git
 git help checkout
 git checkout -f dev 
 git branch -D ywan04-new_feature 
+ls
+vim ~/.bash_history 
+ls
+git add git_commands.md 
+git status
+git commit -m "git commands i used"
+git push 
+git push origin --delete ywan04-new_feature
+git push 
+git push -f
+git checkout master 
+git add log.txt 
+git commit -m "add log"
+git push
+git push -f

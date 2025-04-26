@@ -1,0 +1,23 @@
+commit af87f78b5ad68e23b9bca54ec0eac49dada8223d
+Author: Ivan Bereza <iv.bereza04@gmail.com>
+Date:   Sat Apr 26 22:31:55 2025 +0300
+
+    gitignore
+
+commit 91af4b1b218beca7c6bd85ec991c02452dbd8b96
+Author: Ivan Bereza <iv.bereza04@gmail.com>
+Date:   Sat Apr 26 22:28:46 2025 +0300
+
+    new readme
+
+commit 9a74a0d7ac7910debb97f7bfe1cbaf0b87c37225
+Author: Ivan Bereza <iv.bereza04@gmail.com>
+Date:   Sat Apr 26 22:26:21 2025 +0300
+
+    text file
+
+commit fa7b7295a2c62265024fa14be1747efc96b127b0
+Author: Ivan Bereza <iv.bereza04@gmail.com>
+Date:   Sat Apr 26 22:24:14 2025 +0300
+
+    Task1 directory and readme file
